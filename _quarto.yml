@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "WK5website"
+  navbar:
+    logo: UU_logo_2021_EN_WHITE.png
+
+    left:
+      - href: index.qmd
+        text: About me
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+editor: visual
