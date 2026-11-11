@@ -1,0 +1,5 @@
+---
+title: "About this site"
+---
+
+This website is created during the course: Markup Languages and Reproducible Programming in Statistics on 11/11/2026
