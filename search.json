@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DemoSite",
+    "title": "Developer Portfolio Ilse",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Ilse Bosman and I am a second-year Methodology, Statistics and Data Science master student at Utrecht University. I live in Utrecht and have also completed my my bachelor Interdisciplinary Social Science here. During my bachelor, I did two minors: Methods and Statistics in the Social and Behavioural Sciences and Social Policy and Public Health. Currently, I am following a Contemporary Psychometrics track."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About this site",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This website is created during the course: Markup Languages and Reproducible Programming in Statistics"
   }
 ]
